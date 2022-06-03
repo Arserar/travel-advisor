@@ -1,6 +1,6 @@
 # Travel Advisor
 
-![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
+![Travel Advisor](https://cdn.sanity.io/images/vxf7qeui/production/2f799f31ca20854861ca93b0de3356f63308f0b3-1343x625.png)
 
 ## Description
 
